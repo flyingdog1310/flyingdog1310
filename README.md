@@ -1,6 +1,6 @@
 ## 🐶flyingdog1310(Ed)
 ---
-Hi,I'm Ed, a backend developer of web.  
+Hi, I'm Ed, a backend developer of web.  
 
 As a backend developer, I check my AWS bill daily. 💸  
 
