@@ -2,7 +2,7 @@
 ---
 Hi,I'm Ed, a backend developer of web.  
 
-As a backend developer, I check my AWS bill daily💸.  
+As a backend developer, I check my AWS bill daily. 💸  
 
 ✨ Welcome to my GitHub repo ✨  
 
