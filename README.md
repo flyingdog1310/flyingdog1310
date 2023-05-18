@@ -1,4 +1,14 @@
-### Hi there 👋
+## 🐶flyingdog1310(Ed)
+---
+Hi,I'm Ed, a backend developer of web. 
+As a backend developer, I check my AWS bill daily💸. 
+Welcome to my GitHub repo !!
+
+
+
+
+
+
 
 <!--
 **flyingdog1310/flyingdog1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
