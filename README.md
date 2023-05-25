@@ -8,7 +8,7 @@ Tools                    | ![GitHub Badge](https://img.shields.io/badge/-GitHub-
 Databases                | ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white)  ![Cassandra Badge](https://img.shields.io/badge/-Apache%20Cassandra-9cf?style=flat&logo=apachecassandra&logoColor=white) 
 Message Broker           | ![kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-lightgray?style=flat&logo=apachekafka&logoColor=white)
 AWS Services             | ![EC2 Badge](https://img.shields.io/badge/-EC2-orange?style=flat&logo=amazonec2&logoColor=white) ![S3 Badge](https://img.shields.io/badge/-S3-brightgreen?style=flat&logo=amazons3&logoColor=white) ![RDS Badge](https://img.shields.io/badge/-RDS-blue?style=flat&logo=amazonrds&logoColor=white) ![CloudWatch Badge](https://img.shields.io/badge/-CloudWatch-ff69b4?style=flat&logo=amazoncloudwatch&logoColor=white)
-Reach Me                 | [![Linkedin Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/da-hsing-liu/)
+Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:liudahsing84@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/da-hsing-liu/)
 
 As a backend developer, I check my AWS bill daily. 💸  
 
