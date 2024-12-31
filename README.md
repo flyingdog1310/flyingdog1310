@@ -1,36 +1,27 @@
-Hi, I'm Ed, a backend developer of web.
-##  Profile 💻
-Property                 | Data  
--------------------------|------
-Environment              | ![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/-Nodejs-brightgreen?style=flat&logo=nodedotjs&logoColor=white) ![Express Badge](https://img.shields.io/badge/-Express-lightgray?style=flat&logo=express&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-lightgray?style=flat&logo=linux&logoColor=white)
-Frontend                 | ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) ![Pug Badge](https://img.shields.io/badge/-Pug-yellow?style=flat&logo=pug&logoColor=white) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?style=flat&logo=jquery&logoColor=white)
-Tools                    | ![GitHub Badge](https://img.shields.io/badge/-GitHub-lightgray?style=flat&logo=github&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white) ![Nginx Badge](https://img.shields.io/badge/-Nginx-brightgreen?style=flat&logo=nginx&logoColor=white) ![K6 Badge](https://img.shields.io/badge/-k6-blueviolet?style=flat&logo=k6&logoColor=white) ![Jest Badge](https://img.shields.io/badge/-Jest-red?style=flat&logo=jest&logoColor=white) ![Jira Badge](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira&logoColor=white) ![Trello Badge](https://img.shields.io/badge/-Trello-blue?style=flat&logo=trello&logoColor=white)
-Databases                | ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white)  ![Cassandra Badge](https://img.shields.io/badge/-Apache%20Cassandra-9cf?style=flat&logo=apachecassandra&logoColor=white) 
-Message Broker           | ![kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-lightgray?style=flat&logo=apachekafka&logoColor=white)
-AWS Services             | ![EC2 Badge](https://img.shields.io/badge/-EC2-orange?style=flat&logo=amazonec2&logoColor=white) ![S3 Badge](https://img.shields.io/badge/-S3-brightgreen?style=flat&logo=amazons3&logoColor=white) ![RDS Badge](https://img.shields.io/badge/-RDS-blue?style=flat&logo=amazonrds&logoColor=white) ![CloudWatch Badge](https://img.shields.io/badge/-CloudWatch-ff69b4?style=flat&logo=amazoncloudwatch&logoColor=white)
-Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:liudahsing84@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/da-hsing-liu/)
+# DevOps Engineer 👨‍💻
 
-As a backend developer, I check my AWS bill daily. 💸  
+Background in legal and backend development. 
+
+## What I Do 🚀
+⚡ Building & managing $500k+ monthly AWS infrastructure with Terraform   
+🔄 Crafting & managing 100+ GitLab CI/CD pipelines  
+✅ Implementing ISO compliance in automation workflows  
+
+## Focus 🎯
+Making developers' lives easier through process optimization and automation.  
+Solving complex problems with simple solutions.
+
+##  Skills 💻
+| Property       | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Environment    | ![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/-Nodejs-brightgreen?style=flat&logo=nodedotjs&logoColor=white) ![Express Badge](https://img.shields.io/badge/-Express-lightgray?style=flat&logo=express&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-darkgreen?style=flat&logo=fastapi&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-lightgray?style=flat&logo=linux&logoColor=black) |
+| DevOps         | ![Terraform Badge](https://img.shields.io/badge/-Terraform-blueviolet?style=flat&logo=terraform&logoColor=white)  ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)                                                                                                                 |
+| Databases      | ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white)  ![Cassandra Badge](https://img.shields.io/badge/-Apache%20Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)                                                                                                                                                                                                                                                                                                                              |
+| Message Broker | ![kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Cloud Services | ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Load Test      | ![k6 Badge](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Unit Test      | ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| DevSecOps      | ![SonarQube Badge](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Trivy Badge](https://img.shields.io/badge/-Trivy-1904DA?style=flat&logo=trivy&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Reach Me       | [![Gmail Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:liudahsing84@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Da%20Hsing%20Liu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/da-hsing-liu/)                                                                                                                                                                                                                                                                                                                                              |
 
 ✨ Welcome to my GitHub repo ✨  
-
-
-
-
-
-
-
-<!--
-**flyingdog1310/flyingdog1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
