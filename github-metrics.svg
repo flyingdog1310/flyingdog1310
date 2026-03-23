@@ -35,7 +35,7 @@
 
 <pre><div class="stdin"><span class="ps1-path">flyingdog1310@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Ed</b> registered=3y, uid=9147, gid=0
   contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>11</b> users
+  followed by <b>12</b> users
 </div>
 <div class="stdin"><span class="ps1-path">flyingdog1310@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
   <b>  257</b> commits
